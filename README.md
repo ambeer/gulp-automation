@@ -19,7 +19,7 @@ like below
 </html>
 ```
 
-By using this task runner, you can directly load your components (html, css and js) with out need server technology. 
+By using this task runner, you can directly load your components (html, css and js) with out need any server technology. 
 
 Below is the usage of this script
 
