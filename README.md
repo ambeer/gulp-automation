@@ -16,9 +16,8 @@ like below
   // body component comes here
   // footer component comes here
 </body>
-  
 </html>
-
+```
 
 By using this task runner, you can directly load your components (html, css and js) with out need server technology. 
 
@@ -34,8 +33,9 @@ Below is the usage of this script
   {{ body.html }}
   {{ footer.html }}
 </body>
-  
 </html>
+
+```
 
 
 
