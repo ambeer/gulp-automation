@@ -3,7 +3,7 @@ This automation/task runner script helps for component based architecture projec
 
 Component-based architecture focuses on the decomposition of the design into individual functional or logical components that represent well-defined communication interfaces containing methods, events, and properties.
 
-Example : Lets say if you are developing a webpage into different components like header.html , body.html and footer.html and to build complete webpage we need to include these components by using server side technologies php/jsp as there is include statements in HTML
+Example : Lets say if you are developing a webpage into different components like header.html , body.html and footer.html and to build complete webpage we need to include these components by using server side technologies php/jsp as there is no include statement in HTML
 
 like below
 ```html
